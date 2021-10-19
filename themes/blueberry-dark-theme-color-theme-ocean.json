@@ -26,7 +26,7 @@
 		"list.hoverForeground": "#e4f0fb",
 		"list.highlightForeground": "#00B4CC",
 		"button.background": "#717cb450",
-		"badge.background": "#df4576",
+		"badge.background": "#fca311",
 		"badge.foreground": "#E4F0FB",
 		"scrollbar.shadow": "#24293800",
 		"scrollbarSlider.background": "#00000050",
@@ -62,7 +62,7 @@
 		"statusBar.noFolderBackground": "#242938",
 		"activityBar.background": "#1d212f",
 		"activityBar.foreground": "#a6accd",
-		"activityBarBadge.background": "#df4576",
+		"activityBarBadge.background": "#fca311",
 		"activityBarBadge.foreground": "#E4F0FB",
 		"sideBar.background": "#1d212f",
 		"sideBar.foreground": "#676e95",
@@ -156,7 +156,7 @@
 				"invalid.illegal"
 			],
 			"settings": {
-				"foreground": "#DF4576"
+				"foreground": "#fca311"
 			}
 		},
 		{
@@ -165,7 +165,7 @@
 				"invalid.deprecated"
 			],
 			"settings": {
-				"foreground": "#DF4576"
+				"foreground": "#fca311"
 			}
 		},
 		{
@@ -328,7 +328,7 @@
 				"source.postcss support.type.property-name"
 			],
 			"settings": {
-				"foreground": "#add7ff"
+				"foreground": "#df4576"
 			}
 		},
 		{
@@ -838,7 +838,7 @@
 			"name": "[MARKDOWN] - Color for Separator",
 			"scope": "meta.separator.markdown",
 			"settings": {
-				"foreground": "#df4576"
+				"foreground": "#fca311"
 			}
 		},
 		{
@@ -876,7 +876,7 @@
 				"meta.image.inline.markdown string.other.link.description.title.markdown"
 			],
 			"settings": {
-				"foreground": "#df4576",
+				"foreground": "#fca311",
 				"fontStyle": ""
 			}
 		},
